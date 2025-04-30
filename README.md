@@ -20,6 +20,8 @@ This script lets you start, stop, pause, and save screen recordings or replays u
 
 ## Preview
 
+![rofi-gpu-screen-recorder-preview](https://github.com/user-attachments/assets/44b1e73a-19f6-4ff4-979a-f32109096712)
+
 ## Installation
 
 1. Clone the repository:
@@ -47,9 +49,11 @@ This script lets you start, stop, pause, and save screen recordings or replays u
 
 ## Usage
 
-   Set a keybind to run the script. For i3 it would be:<br>
-   bindsym Mod1+z exec "bash $HOME/.config/rofi/scripts/gpu-screen-recorder.sh"<br>
-   Which will run the script when pressing ALT + Z<br>
+   Set a keybind to run the script. For i3 it would be:
+   ```plaintext
+   bindsym Mod1+z exec "bash $HOME/.config/rofi/scripts/gpu-screen-recorder.sh"
+   ```
+   Which will run the script when pressing ALT + Z
 
 #
 
