@@ -14,7 +14,7 @@
 	<a href="https://github.com/Justus0405/rofi-gpu-screen-recorder/contributors"><img src="https://img.shields.io/github/contributors/Justus0405/rofi-gpu-screen-recorder?colorA=1e1e2e&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-# Rofi gpu-screen-record Controls
+# Rofi gpu-screen-recorder Controls
 
 This script lets you start, stop, pause, and save screen recordings or replays using a simple menu in Rofi. It uses `gpu-screen-recorder` for fast GPU-based screen recording. You can run it with a keybind and control everything from one menu.
 
@@ -29,6 +29,7 @@ This script lets you start, stop, pause, and save screen recordings or replays u
    ```shell
    git clone https://github.com/Justus0405/rofi-gpu-screen-recorder.git
    ```
+
 2. Navigate to the directory:
 
    ```shell
@@ -49,11 +50,13 @@ This script lets you start, stop, pause, and save screen recordings or replays u
 
 ## Usage
 
-   Set a keybind to run the script. For i3 it would be:
-   ```plaintext
-   bindsym Mod1+z exec "bash $HOME/.config/rofi/scripts/gpu-screen-recorder.sh"
-   ```
-   Which will run the script when pressing ALT + Z
+Set a keybind to run the script. For i3 it would be:
+
+```plaintext
+bindsym Mod1+z exec "bash $HOME/.config/rofi/scripts/gpu-screen-recorder.sh"
+```
+
+Which will run the script when pressing ALT + Z
 
 #
 
