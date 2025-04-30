@@ -24,7 +24,7 @@ This script lets you start, stop, pause, and save screen recordings or replays u
 
 ## Dependencies
 
-> [!INFO]
+> [!NOTE]
 > This script needs some kind of `nerdfont`
 > in order to display the icons properly!
 
