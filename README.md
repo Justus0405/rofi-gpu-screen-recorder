@@ -22,6 +22,12 @@ This script lets you start, stop, pause, and save screen recordings or replays u
 
 ![rofi-gpu-screen-recorder-preview](https://github.com/user-attachments/assets/44b1e73a-19f6-4ff4-979a-f32109096712)
 
+## Dependencies
+
+> [!INFO]
+> This script needs some kind of `nerdfont`
+> in order to display the icons properly!
+
 ## Installation
 
 1. Clone the repository:
