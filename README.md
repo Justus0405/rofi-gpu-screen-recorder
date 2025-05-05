@@ -45,7 +45,7 @@ This script lets you start, stop, pause, and save screen recordings or replays u
 3. Make the file an executable:
 
    ```shell
-   chmod +x rofi-gpu-screen-recorder.sh
+   chmod +x gpu-screen-recorder.sh
    ```
 
 4. Move the file:
