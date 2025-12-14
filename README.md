@@ -33,7 +33,7 @@ This script lets you start, stop, pause, and save screen recordings or replays u
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/Justus0405/rofi-gpu-screen-recorder.git
+   git clone --depth 1 https://github.com/Justus0405/rofi-gpu-screen-recorder.git
    ```
 
 2. Navigate to the directory:
